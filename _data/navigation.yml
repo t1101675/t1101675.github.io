@@ -1,22 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Education"
+    url: /#education/   
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Publications"
+    url: /#publications/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /#teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Selected Honors and Awards"
+    url: /#selected-honors-and-awards/
+
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /_pages/cv_English.pdf/
