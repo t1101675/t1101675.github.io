@@ -60,7 +60,7 @@ Selected Honors and Awards
 + Outstanding Undergraduate Dissertation, Tsinghua University, 2021
 + Overall Scholarship, Dept. CST, Tsinghua University, 2020
 + Science and Technology Innovation Excellence Scholarship, Dept. CST, Tsinghua University, 2019
-+ Silver Prize, 2019 Asia Student Supercomputer Challenge, Asia Supercomputer Community, 2019
++ Silver Prize, Asia Student Supercomputer Challenge, Asia Supercomputer Community, 2019
 + Overall Scholarship, Dept. CST, Tsinghua University, 2018
 
 <!-- I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
