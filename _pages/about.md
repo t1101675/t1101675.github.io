@@ -21,6 +21,8 @@ Publications
 
 **Conference Papers**
 
++ **Yuxian Gu**, Pei Ke, Xiaoyan Zhu, Minlie Huang. Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization. **EMNLP 2022** (CCF-B, Long Paper). [[pdf]](https://aclanthology.org/2022.acl-long.576.pdf) [[code]](https://github.com/thu-coai/UDIT)
+
 + **Yuxian Gu\***, Xu Han\*, Zhiyuan Liu, Minlie Huang. PPT: Pre-Trained Prompt Tuning for Few-Shot Learning. **ACL 2022** (CCF-A, Long Paper). [[pdf]](https://aclanthology.org/2022.acl-long.576.pdf) [[code]](https://github.com/thu-coai/PPT)
 
 + Qi Zhu, **Yuxian Gu**, Lingxiao Luo, Bing Li, Cheng Li, Wei Peng, Minlie Huang, Xiaoyan Zhu. When does Further Pre-Training MLM Help? An Empirical Study on Task-Oriented Dialog Pre-Training. **EMNLP 2021 Workshop** (***Best Paper***). [[pdf]](https://aclanthology.org/2021.insights-1.9.pdf) [[code]](https://github.com/zqwerty/ToDDAPT)
