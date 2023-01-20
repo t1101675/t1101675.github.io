@@ -21,7 +21,7 @@ Publications
 
 **Conference Papers**
 
-+ **Yuxian Gu**, Pei Ke, Xiaoyan Zhu, Minlie Huang. Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization. **EMNLP 2022** (CCF-B, Long Paper). [[pdf]](https://arxiv.org/pdf/2210.09175.pdf) [[code]](https://github.com/thu-coai/UDIT)
++ **Yuxian Gu**, Pei Ke, Xiaoyan Zhu, Minlie Huang. Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization. **EMNLP 2022** (CCF-B, Long Paper, **Oral**). [[pdf]](https://arxiv.org/pdf/2210.09175.pdf) [[code]](https://github.com/thu-coai/UDIT)
 
 + **Yuxian Gu\***, Xu Han\*, Zhiyuan Liu, Minlie Huang. PPT: Pre-Trained Prompt Tuning for Few-Shot Learning. **ACL 2022** (CCF-A, Long Paper). [[pdf]](https://aclanthology.org/2022.acl-long.576.pdf) [[code]](https://github.com/thu-coai/PPT)
 
@@ -51,7 +51,7 @@ Teaching
 ======
 I was a TA for the following undergraduate courses:
 
-+ Artificial Neural Network (2020 Fall, 2021 Fall)
++ Artificial Neural Network (2020 Fall, 2021 Fall, 2022 Fall)
 + Object-Oriented Programming (2021 Spring, 2022 Spring)
 
 Selected Honors and Awards
