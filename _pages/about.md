@@ -33,6 +33,8 @@ Publications
 
 **Journal Papers**
 
++ **Yuxian Gu\***, Jiaxin Wen\*, Hao Sun\*, Yi Song, Pei Ke, Chujie Zheng, Zheng Zhang, Jianzhu Yao, Lei Liu, Xiaoyan Zhu, Minlie Huang. EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training. 2022. **Machine Intelligence Research** [[pdf]](https://link.springer.com/article/10.1007/s11633-022-1387-3) [[code]](https://github.com/thu-coai/EVA/)
+
 + Zhengyan Zhang\*, **Yuxian Gu\***, Xu Han\*, Shengqi Chen\*, Chaojun Xiao\*, Zhenbo Sun, Yuan Yao, Fanchao Qi, Jian Guan, Pei Ke, Yanzheng Cai, Guoyang Zeng, Zhixing Tan, Zhiyuan Liu, Minlie Huang, Wentao Han, Yang Liu, Xiaoyan Zhu, Maosong Sun. CPM-2: Large-Scale Cost-Effective Pre-Trained Language Models. 2022. **AI Open**. [[pdf]](https://www.sciencedirect.com/science/article/pii/S2666651021000310/pdfft?md5=46efc536c128aefd0ff69139f8627ddb&pid=1-s2.0-S2666651021000310-main.pdf) [[pre-train code]](https://github.com/TsinghuaAI/CPM-2-Pretrain) [[fine-tune code]](https://github.com/TsinghuaAI/CPM-1-Finetune)
 
 + Xu Han\*, Zhengyan Zhang\*, Ning Ding\*, **Yuxian Gu\***, Xiao Liu\*, Yuqi Huo\*, Jiezhong Qiu, Yuan Yao, Ao Zhang, Liang Zhang, Wentao Han, Minlie Huang, Qin Jin, Yanyan Lan, Yang Liu, Zhiyuan Liu, Zhiwu Lu, Xipeng Qiu, Ruihua Song, Jie Tang, Ji-Rong Wen, Jinhui Yuan, Wayne Xin Zhao, Jun Zhu. Pre-Trained Models: Past, Present and Future. 2022. **AI Open**. [[pdf]](https://www.sciencedirect.com/science/article/pii/S2666651021000231/pdfft?md5=e87250d675adde41b6836aed4df648b4&pid=1-s2.0-S2666651021000231-main.pdf)
@@ -40,8 +42,6 @@ Publications
 + Zhengyan Zhang, Xu Han, Hao Zhou, Pei Ke, **Yuxian Gu**, Deming Ye, Yujia Qin, Yusheng Su, Haozhe Ji, Jian Guan, Fanchao Qi, Xiaozhi Wang, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun. CPM: A Large-Scale Generative Chinese Pre-Trained Language Model. 2021. **AI Open**. [[pdf]](https://www.sciencedirect.com/science/article/pii/S266665102100019X/pdfft?md5=c9c82038f6f237b8708270ed0fbbf80b&pid=1-s2.0-S266665102100019X-main.pdf) [[pre-train code]](https://github.com/TsinghuaAI/CPM-1-Pretrain) [[fine-tune code]](https://github.com/TsinghuaAI/CPM-1-Finetune) [[inference code]](https://github.com/TsinghuaAI/CPM-1-Generate)
 
 **Preprints**
-
-+ **Yuxian Gu\***, Jiaxin Wen\*, Hao Sun\*, Yi Song, Pei Ke, Chujie Zheng, Zheng Zhang, Jianzhu Yao, Xiaoyan Zhu, Jie Tang, Minlie Huang. EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training. arXiv preprint 2022. [[pdf]](https://arxiv.org/pdf/2203.09313.pdf) [[code]](https://github.com/thu-coai/EVA/)
 
 + Yi Song\*, **Yuxian Gu\***, Minlie Huang. Many-Class Text Classification with Matching. arXiv preprint 2022. [[pdf]](https://arxiv.org/pdf/2205.11409.pdf)
 
