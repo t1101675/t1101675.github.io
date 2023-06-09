@@ -21,7 +21,7 @@ Publications
 
 **Conference Papers**
 
-+ **Yuxian Gu**, Li Dong, Furu Wei, Minlie Huang. Pre-Training to Learn in Context. **ACL 2023** (CCF-A, Long Paper). [[pdf]](https://arxiv.org/pdf/2305.09137.pdf) [[code]](https://github.com/thu-coai/PICL)
++ **Yuxian Gu**, Li Dong, Furu Wei, Minlie Huang. Pre-Training to Learn in Context. **ACL 2023** (CCF-A, Long Paper, **Oral**). [[pdf]](https://arxiv.org/pdf/2305.09137.pdf) [[code]](https://github.com/thu-coai/PICL)
 
 + **Yuxian Gu**, Pei Ke, Xiaoyan Zhu, Minlie Huang. Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization. **EMNLP 2022** (CCF-B, Long Paper, **Oral**). [[pdf]](https://arxiv.org/pdf/2210.09175.pdf) [[code]](https://github.com/thu-coai/UDIT)
 
@@ -50,6 +50,7 @@ Publications
 + Hao Zhou, Pei Ke, Zheng Zhang, **Yuxian Gu**, Yinhe Zheng, Chujie Zheng, Yida Wang, Chen Henry Wu, Hao Sun, Xiaocong Yang, Bosi Wen, Xiaoyan Zhu, Minlie Huang, Jie Tang. EVA: An Open-Domain Chinese Dialogue System with Large-Scale Generative Pre-Training. arXiv preprint 2021. [[pdf]](https://arxiv.org/pdf/2108.01547.pdf) [[code]](https://github.com/thu-coai/EVA/)
 
 Services
+======
 + Program Committee Member (Conference Reviewer) EMNLP 2022, ACL 2023
 
 Teaching
