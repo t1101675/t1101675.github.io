@@ -45,6 +45,8 @@ Publications
 
 **Preprints**
 
++ **Yuxian Gu**, Li Dong, Furu Wei, Minlie Huang. Knowledge Distillation of Large Language Models. arXiv preprint 2023. [[pdf]](https://arxiv.org/abs/2306.08543) [[code]](https://aka.ms/MiniLLM)
+
 + Yi Song\*, **Yuxian Gu\***, Minlie Huang. Many-Class Text Classification with Matching. arXiv preprint 2022. [[pdf]](https://arxiv.org/pdf/2205.11409.pdf)
 
 + Hao Zhou, Pei Ke, Zheng Zhang, **Yuxian Gu**, Yinhe Zheng, Chujie Zheng, Yida Wang, Chen Henry Wu, Hao Sun, Xiaocong Yang, Bosi Wen, Xiaoyan Zhu, Minlie Huang, Jie Tang. EVA: An Open-Domain Chinese Dialogue System with Large-Scale Generative Pre-Training. arXiv preprint 2021. [[pdf]](https://arxiv.org/pdf/2108.01547.pdf) [[code]](https://github.com/thu-coai/EVA/)
