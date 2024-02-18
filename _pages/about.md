@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a 3nd-year Ph.D. student in [Conversational AI Group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. I’m advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). My research interests include Efficient Pre-trained Language Models and Dialogue Systems.
+I’m a 3rd-year Ph.D. student in [Conversational AI Group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. I’m advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). My research interests include Efficient Pre-trained Language Models and Dialogue Systems.
 
 Education
 ======
