@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a 2nd-year Ph.D. student in [Conversational AI Group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. I’m advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). My research interests include Pre-trained Models for Natural Language Processing and Dialogue Systems.
+I’m a 3nd-year Ph.D. student in [Conversational AI Group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. I’m advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). My research interests include Efficient Pre-trained Language Models and Dialogue Systems.
 
 Education
 ======
@@ -21,17 +21,19 @@ Publications
 
 **Conference Papers**
 
-+ **Yuxian Gu**, Li Dong, Furu Wei, Minlie Huang. Pre-Training to Learn in Context. **ACL 2023** (CCF-A, Long Paper, **Oral**). [[pdf]](https://arxiv.org/pdf/2305.09137.pdf) [[code]](https://github.com/thu-coai/PICL)
++ **Yuxian Gu**, Li Dong, Furu Wei, Minlie Huang. MiniLLM: Knowledge Distillation of Large Language Models. **ICLR 2024** (Poster). [[pdf]](https://arxiv.org/abs/2306.08543) [[code]](https://aka.ms/MiniLLM)
 
-+ **Yuxian Gu**, Pei Ke, Xiaoyan Zhu, Minlie Huang. Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization. **EMNLP 2022** (CCF-B, Long Paper, **Oral**). [[pdf]](https://arxiv.org/pdf/2210.09175.pdf) [[code]](https://github.com/thu-coai/UDIT)
++ **Yuxian Gu**, Li Dong, Furu Wei, Minlie Huang. Pre-Training to Learn in Context. **ACL 2023** (Long Paper, **Oral**). [[pdf]](https://arxiv.org/pdf/2305.09137.pdf) [[code]](https://github.com/thu-coai/PICL)
 
-+ **Yuxian Gu\***, Xu Han\*, Zhiyuan Liu, Minlie Huang. PPT: Pre-Trained Prompt Tuning for Few-Shot Learning. **ACL 2022** (CCF-A, Long Paper). [[pdf]](https://aclanthology.org/2022.acl-long.576.pdf) [[code]](https://github.com/thu-coai/PPT)
++ **Yuxian Gu**, Pei Ke, Xiaoyan Zhu, Minlie Huang. Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization. **EMNLP 2022** (Long Paper, **Oral**). [[pdf]](https://arxiv.org/pdf/2210.09175.pdf) [[code]](https://github.com/thu-coai/UDIT)
+
++ **Yuxian Gu\***, Xu Han\*, Zhiyuan Liu, Minlie Huang. PPT: Pre-Trained Prompt Tuning for Few-Shot Learning. **ACL 2022** (Long Paper). [[pdf]](https://aclanthology.org/2022.acl-long.576.pdf) [[code]](https://github.com/thu-coai/PPT)
 
 + Qi Zhu, **Yuxian Gu**, Lingxiao Luo, Bing Li, Cheng Li, Wei Peng, Minlie Huang, Xiaoyan Zhu. When does Further Pre-Training MLM Help? An Empirical Study on Task-Oriented Dialog Pre-Training. **EMNLP 2021 Workshop** (***Best Paper***). [[pdf]](https://aclanthology.org/2021.insights-1.9.pdf) [[code]](https://github.com/zqwerty/ToDDAPT)
 
-+ **Yuxian Gu**, Zhengyan Zhang, Xiaozhi Wang, Zhiyuan Liu, Maosong Sun. Train No Evil: Selective Masking for Task-Guided Pre-Training. **EMNLP 2020** (CCF-B, Short Paper). [[pdf]](https://aclanthology.org/2020.emnlp-main.566.pdf) [[code]](https://github.com/thunlp/SelectiveMasking)
++ **Yuxian Gu**, Zhengyan Zhang, Xiaozhi Wang, Zhiyuan Liu, Maosong Sun. Train No Evil: Selective Masking for Task-Guided Pre-Training. **EMNLP 2020** (Short Paper). [[pdf]](https://aclanthology.org/2020.emnlp-main.566.pdf) [[code]](https://github.com/thunlp/SelectiveMasking)
 
-+ Xin Lv, **Yuxian Gu**, Xu Han, Lei Hou, Juanzi Li, Zhiyuan Liu. Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations. **EMNLP 2019** (CCF-B Short Paper). [[pdf]](https://aclanthology.org/D19-1334.pdf) [[code]](https://github.com/THU-KEG/MetaKGR)
++ Xin Lv, **Yuxian Gu**, Xu Han, Lei Hou, Juanzi Li, Zhiyuan Liu. Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations. **EMNLP 2019** (Short Paper). [[pdf]](https://aclanthology.org/D19-1334.pdf) [[code]](https://github.com/THU-KEG/MetaKGR)
 
 **Journal Papers**
 
@@ -45,21 +47,21 @@ Publications
 
 **Preprints**
 
-+ **Yuxian Gu**, Li Dong, Furu Wei, Minlie Huang. Knowledge Distillation of Large Language Models. arXiv preprint 2023. [[pdf]](https://arxiv.org/abs/2306.08543) [[code]](https://aka.ms/MiniLLM)
-
 + Yi Song\*, **Yuxian Gu\***, Minlie Huang. Many-Class Text Classification with Matching. arXiv preprint 2022. [[pdf]](https://arxiv.org/pdf/2205.11409.pdf)
 
 + Hao Zhou, Pei Ke, Zheng Zhang, **Yuxian Gu**, Yinhe Zheng, Chujie Zheng, Yida Wang, Chen Henry Wu, Hao Sun, Xiaocong Yang, Bosi Wen, Xiaoyan Zhu, Minlie Huang, Jie Tang. EVA: An Open-Domain Chinese Dialogue System with Large-Scale Generative Pre-Training. arXiv preprint 2021. [[pdf]](https://arxiv.org/pdf/2108.01547.pdf) [[code]](https://github.com/thu-coai/EVA/)
 
++ Yaru Hao, Yutao Sun, Li Dong, Zhixiong Han, **Yuxian Gu**, Furu Wei. Structured prompting: Scaling in-context learning to 1,000 examples. [[pdf]](https://arxiv.org/pdf/2212.06713.pdf) [[code]](https://github.com/microsoft/LMOps/tree/main/structured_prompting/)
+
 Services
 ======
-+ Program Committee Member (Conference Reviewer) EMNLP 2022, ACL 2023
++ Program Committee Member (Conference Reviewer) EMNLP 2022, ACL 2023, EMNLP 2023, ARR 2023
 
 Teaching
 ======
 I was a TA for the following undergraduate courses:
 
-+ Artificial Neural Network (2020 Fall, 2021 Fall, 2022 Fall)
++ Artificial Neural Network (2020 Fall, 2021 Fall, 2022 Fall, 2023 Fall)
 + Object-Oriented Programming (2021 Spring, 2022 Spring, 2023 Spring)
 
 Selected Honors and Awards
