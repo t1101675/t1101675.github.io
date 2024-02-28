@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a 3rd-year Ph.D. student in [Conversational AI Group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. I’m advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). My research interests include Efficient Pre-trained Language Models and Dialogue Systems.
+I’m a 3rd-year Ph.D. student in [Conversational AI Group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. I’m advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). I was an intern at Microsoft Research Asia mentored by Dr. [Li Dong](https://dong.li/). My research interests include Efficient Pre-trained Language Models and Dialogue Systems.
 
 Education
 ======
@@ -47,6 +47,8 @@ Publications
 
 **Preprints**
 
++ **Yuxian Gu**, Li Dong, Yaru Hao, Qingxiu Dong, Minlie Huang, Furu Wei. Towards Optimal Learning of Language Models. arXiv preprint 2024. [[pdf]](https://arxiv.org/pdf/2402.17759.pdf) [[code]](https://github.com/microsoft/LMOps/tree/main/learning_law)
+
 + Yi Song\*, **Yuxian Gu\***, Minlie Huang. Many-Class Text Classification with Matching. arXiv preprint 2022. [[pdf]](https://arxiv.org/pdf/2205.11409.pdf)
 
 + Hao Zhou, Pei Ke, Zheng Zhang, **Yuxian Gu**, Yinhe Zheng, Chujie Zheng, Yida Wang, Chen Henry Wu, Hao Sun, Xiaocong Yang, Bosi Wen, Xiaoyan Zhu, Minlie Huang, Jie Tang. EVA: An Open-Domain Chinese Dialogue System with Large-Scale Generative Pre-Training. arXiv preprint 2021. [[pdf]](https://arxiv.org/pdf/2108.01547.pdf) [[code]](https://github.com/thu-coai/EVA/)
@@ -55,7 +57,7 @@ Publications
 
 Services
 ======
-+ Program Committee Member (Conference Reviewer) EMNLP 2022, ACL 2023, EMNLP 2023, ARR 2023
++ Program Committee Member (Conference Reviewer) EMNLP 2022, ACL 2023, EMNLP 2023, ARR 2023, ARR 2024
 
 Teaching
 ======
