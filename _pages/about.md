@@ -77,6 +77,11 @@ Selected Honors and Awards
 + Silver Prize, Asia Student Supercomputer Challenge, Asia Supercomputer Community, 2019
 + Overall Scholarship, Dept. CST, Tsinghua University, 2018
 
+Miscellaneous
+======
+
+I like to play [Jianzi, Jianqiu](https://en.wikipedia.org/wiki/Jianzi), a competitive sport similar to volleyball. I am the captain of Tsinghua Jianqiu Team and was the [captain](/images/jianqiu.JPG) of the Beijing Youth Jianqiu Team. I once won the [championship](/images/champion.JPG) of the Jianqiu Competition in Beijing and represented Beijing in [National Youth Olympic Games](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%AD%A6%E7%94%9F%EF%BC%88%E9%9D%92%E5%B9%B4%EF%BC%89%E8%BF%90%E5%8A%A8%E4%BC%9A).
+
 <!-- I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
