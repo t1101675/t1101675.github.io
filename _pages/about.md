@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I’m a 3rd-year Ph.D. student in [Conversational AI Group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. I’m advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). I was an intern at Microsoft Research Asia mentored by Dr. [Li Dong](https://dong.li/). My research interests include Efficient Pre-trained Language Models and Dialogue Systems.
+I am a 4th-year Ph.D. student in the [Conversational AI Group](http://coai.cs.tsinghua.edu.cn/) at the Department of Computer Science and Technology, Tsinghua University, 
+under the supervision of Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). 
+Previously, I was an intern at Microsoft Research Asia, where I was mentored by Dr. [Li Dong](https://dong.li/). 
+My research interests focus on developing efficient methods for the entire life cycle of language models, including pre-training, downstream adaptation, and inference.
 
 Education
 ======
@@ -21,13 +24,15 @@ Publications
 
 **Conference Papers**
 
-+ **Yuxian Gu**, Li Dong, Furu Wei, Minlie Huang. MiniLLM: Knowledge Distillation of Large Language Models. **ICLR 2024** (Poster). [[pdf]](https://arxiv.org/abs/2306.08543) [[code]](https://aka.ms/MiniLLM)
++ **Yuxian Gu**, Li Dong, Furu Wei, Minlie Huang. MiniLLM: Knowledge Distillation of Large Language Models. **ICLR 2024**. [[pdf]](https://arxiv.org/abs/2306.08543) [[code]](https://aka.ms/MiniLLM) [[huggingface]](https://huggingface.co/MiniLLM)
 
-+ **Yuxian Gu**, Li Dong, Furu Wei, Minlie Huang. Pre-Training to Learn in Context. **ACL 2023** (Long Paper, **Oral**). [[pdf]](https://arxiv.org/pdf/2305.09137.pdf) [[code]](https://github.com/thu-coai/PICL)
++ **Yuxian Gu**, Li Dong, Furu Wei, Minlie Huang. Pre-Training to Learn in Context. **ACL 2023** (Main, Long Paper, **Oral**). [[pdf]](https://arxiv.org/pdf/2305.09137.pdf) [[code]](https://github.com/thu-coai/PICL)
 
-+ **Yuxian Gu**, Pei Ke, Xiaoyan Zhu, Minlie Huang. Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization. **EMNLP 2022** (Long Paper, **Oral**). [[pdf]](https://arxiv.org/pdf/2210.09175.pdf) [[code]](https://github.com/thu-coai/UDIT)
++ **Yuxian Gu**, Pei Ke, Xiaoyan Zhu, Minlie Huang. Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization. **EMNLP 2022** (Main, Long Paper, **Oral**). [[pdf]](https://arxiv.org/pdf/2210.09175.pdf) [[code]](https://github.com/thu-coai/UDIT)
 
-+ **Yuxian Gu\***, Xu Han\*, Zhiyuan Liu, Minlie Huang. PPT: Pre-Trained Prompt Tuning for Few-Shot Learning. **ACL 2022** (Long Paper). [[pdf]](https://aclanthology.org/2022.acl-long.576.pdf) [[code]](https://github.com/thu-coai/PPT)
++ **Yuxian Gu\***, Xu Han\*, Zhiyuan Liu, Minlie Huang. PPT: Pre-Trained Prompt Tuning for Few-Shot Learning. **ACL 2022** (Main, Long Paper). [[pdf]](https://aclanthology.org/2022.acl-long.576.pdf) [[code]](https://github.com/thu-coai/PPT)
+
++ Daixuan Cheng, **Yuxian Gu**, Shaohan Huang, Junyu Bi, Minlie Huang, Furu Wei. Instruction Pre-Training: Language Models are Supervised Multitask Learners. **EMNLP 2024** (Main, Long Paper). [[pdf]](https://arxiv.org/pdf/2406.14491) [[code]](https://github.com/microsoft/LMOps/tree/main/instruction_pretrain) [[huggingface]](https://huggingface.co/instruction-pretrain)
 
 + Qi Zhu, **Yuxian Gu**, Lingxiao Luo, Bing Li, Cheng Li, Wei Peng, Minlie Huang, Xiaoyan Zhu. When does Further Pre-Training MLM Help? An Empirical Study on Task-Oriented Dialog Pre-Training. **EMNLP 2021 Workshop** (***Best Paper***). [[pdf]](https://aclanthology.org/2021.insights-1.9.pdf) [[code]](https://github.com/zqwerty/ToDDAPT)
 
@@ -47,24 +52,26 @@ Publications
 
 **Preprints**
 
++ **Yuxian Gu**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang. MiniPLM: Knowledge Distillation for Pre-Training Language Models. arXiv preprint 2024. [[pdf]](https://arxiv.org/pdf/2410.17215.pdf) [[code]](https://github.com/thu-coai/MiniPLM) [[huggingface]](https://huggingface.co/MiniLLM)
+
++ **Yuxian Gu**, Li Dong, Yaru Hao, Qingxiu Dong, Minlie Huang, Furu Wei. Data Selection via Optimal Control for Language Models. arXiv preprint 2024. [[pdf]](https://arxiv.org/pdf/2410.07064.pdf) [[code]](https://github.com/microsoft/LMOps/tree/main/data_selection) [[huggingface]](https://huggingface.co/Data-Selection)
+
 + **Yuxian Gu**, Li Dong, Yaru Hao, Qingxiu Dong, Minlie Huang, Furu Wei. Towards Optimal Learning of Language Models. arXiv preprint 2024. [[pdf]](https://arxiv.org/pdf/2402.17759.pdf) [[code]](https://github.com/microsoft/LMOps/tree/main/learning_law)
 
-+ Yi Song\*, **Yuxian Gu\***, Minlie Huang. Many-Class Text Classification with Matching. arXiv preprint 2022. [[pdf]](https://arxiv.org/pdf/2205.11409.pdf)
-
-+ Hao Zhou, Pei Ke, Zheng Zhang, **Yuxian Gu**, Yinhe Zheng, Chujie Zheng, Yida Wang, Chen Henry Wu, Hao Sun, Xiaocong Yang, Bosi Wen, Xiaoyan Zhu, Minlie Huang, Jie Tang. EVA: An Open-Domain Chinese Dialogue System with Large-Scale Generative Pre-Training. arXiv preprint 2021. [[pdf]](https://arxiv.org/pdf/2108.01547.pdf) [[code]](https://github.com/thu-coai/EVA/)
++ Yixing Li, **Yuxian Gu**, Li Dong, Dequan Wang, Yu Cheng, Furu Wei. Direct Preference Knowledge Distillation for Large Language Models. arXiv preprint 2024. [[pdf]](https://arxiv.org/pdf/2406.19774.pdf) [[code]](https://github.com/microsoft/LMOps/tree/main/dpkd)
 
 + Yaru Hao, Yutao Sun, Li Dong, Zhixiong Han, **Yuxian Gu**, Furu Wei. Structured prompting: Scaling in-context learning to 1,000 examples. [[pdf]](https://arxiv.org/pdf/2212.06713.pdf) [[code]](https://github.com/microsoft/LMOps/tree/main/structured_prompting/)
 
 Services
 ======
-+ Program Committee Member (Conference Reviewer) EMNLP 2022, ACL 2023, EMNLP 2023, ARR 2023, ARR 2024
++ Program Committee Member (Conference Reviewer) EMNLP 2022-2023, ACL 2023-2024, ARR 2023-2024, NeurIPS 2024
 
 Teaching
 ======
 I was a TA for the following undergraduate courses:
 
 + Artificial Neural Network (2020 Fall, 2021 Fall, 2022 Fall, 2023 Fall)
-+ Object-Oriented Programming (2021 Spring, 2022 Spring, 2023 Spring)
++ Object-Oriented Programming (2021 Spring, 2022 Spring, 2023 Spring, 2024 Spring)
 
 Selected Honors and Awards
 ======
