@@ -12,6 +12,7 @@ I am a 4th-year Ph.D. student in the [Conversational AI Group](http://coai.cs.ts
 under the supervision of Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). 
 Previously, I was an intern at Microsoft Research Asia, where I was mentored by Dr. [Li Dong](https://dong.li/). 
 My research interests focus on developing efficient methods for the entire life cycle of language models, including pre-training, downstream adaptation, and inference.
+Recently, my efforts have centered on data curation theories and algorithms for pre-training LLMs ([PDS](https://arxiv.org/pdf/2410.07064.pdf), [Instruction Pre-training](https://arxiv.org/pdf/2406.14491), [Learning Law](https://arxiv.org/pdf/2402.17759.pdf)) and employing knowledge distillation for LM compression ([MiniLLM](https://arxiv.org/abs/2306.08543), [MiniPLM](https://arxiv.org/pdf/2410.17215.pdf)).
 
 Education
 ======
@@ -76,13 +77,15 @@ I was a TA for the following undergraduate courses:
 Selected Honors and Awards
 ======
 
++ Apple Scholars in AIML PhD fellowship, 2025
++ Comprehensive Scholarship, Tsinghua University, 2022-2024
 + Excellent Graduate, Tsinghua University, 2021
 + Outstanding Graduate, Dept. CST, Tsinghua University, 2021
 + Outstanding Undergraduate Dissertation, Tsinghua University, 2021
-+ Overall Scholarship, Dept. CST, Tsinghua University, 2020
++ Comprehensive Scholarship, Dept. CST, Tsinghua University, 2020
 + Science and Technology Innovation Excellence Scholarship, Dept. CST, Tsinghua University, 2019
 + Silver Prize, Asia Student Supercomputer Challenge, Asia Supercomputer Community, 2019
-+ Overall Scholarship, Dept. CST, Tsinghua University, 2018
++ Comprehensive Scholarship, Dept. CST, Tsinghua University, 2018
 
 Miscellaneous
 ======
