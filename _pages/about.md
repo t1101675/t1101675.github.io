@@ -25,6 +25,10 @@ Publications
 
 **Conference Papers**
 
++ **Yuxian Gu**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang. MiniPLM: Knowledge Distillation for Pre-Training Language Models. **ICLR 2025**. [[pdf]](https://arxiv.org/pdf/2410.17215.pdf) [[code]](https://github.com/thu-coai/MiniPLM) [[huggingface]](https://huggingface.co/MiniLLM)
+
++ **Yuxian Gu**, Li Dong, Yaru Hao, Qingxiu Dong, Minlie Huang, Furu Wei. Data Selection via Optimal Control for Language Models. **ICLR 2025**. [[pdf]](https://arxiv.org/pdf/2410.07064.pdf) [[code]](https://github.com/microsoft/LMOps/tree/main/data_selection) [[huggingface]](https://huggingface.co/Data-Selection)
+
 + **Yuxian Gu**, Li Dong, Furu Wei, Minlie Huang. MiniLLM: Knowledge Distillation of Large Language Models. **ICLR 2024**. [[pdf]](https://arxiv.org/abs/2306.08543) [[code]](https://aka.ms/MiniLLM) [[huggingface]](https://huggingface.co/MiniLLM)
 
 + **Yuxian Gu**, Li Dong, Furu Wei, Minlie Huang. Pre-Training to Learn in Context. **ACL 2023** (Main, Long Paper, **Oral**). [[pdf]](https://arxiv.org/pdf/2305.09137.pdf) [[code]](https://github.com/thu-coai/PICL)
@@ -52,10 +56,6 @@ Publications
 + Zhengyan Zhang, Xu Han, Hao Zhou, Pei Ke, **Yuxian Gu**, Deming Ye, Yujia Qin, Yusheng Su, Haozhe Ji, Jian Guan, Fanchao Qi, Xiaozhi Wang, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun. CPM: A Large-Scale Generative Chinese Pre-Trained Language Model. 2021. **AI Open**. [[pdf]](https://www.sciencedirect.com/science/article/pii/S266665102100019X/pdfft?md5=c9c82038f6f237b8708270ed0fbbf80b&pid=1-s2.0-S266665102100019X-main.pdf) [[pre-train code]](https://github.com/TsinghuaAI/CPM-1-Pretrain) [[fine-tune code]](https://github.com/TsinghuaAI/CPM-1-Finetune) [[inference code]](https://github.com/TsinghuaAI/CPM-1-Generate)
 
 **Preprints**
-
-+ **Yuxian Gu**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang. MiniPLM: Knowledge Distillation for Pre-Training Language Models. arXiv preprint 2024. [[pdf]](https://arxiv.org/pdf/2410.17215.pdf) [[code]](https://github.com/thu-coai/MiniPLM) [[huggingface]](https://huggingface.co/MiniLLM)
-
-+ **Yuxian Gu**, Li Dong, Yaru Hao, Qingxiu Dong, Minlie Huang, Furu Wei. Data Selection via Optimal Control for Language Models. arXiv preprint 2024. [[pdf]](https://arxiv.org/pdf/2410.07064.pdf) [[code]](https://github.com/microsoft/LMOps/tree/main/data_selection) [[huggingface]](https://huggingface.co/Data-Selection)
 
 + **Yuxian Gu**, Li Dong, Yaru Hao, Qingxiu Dong, Minlie Huang, Furu Wei. Towards Optimal Learning of Language Models. arXiv preprint 2024. [[pdf]](https://arxiv.org/pdf/2402.17759.pdf) [[code]](https://github.com/microsoft/LMOps/tree/main/learning_law)
 
