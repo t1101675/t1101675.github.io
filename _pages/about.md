@@ -25,9 +25,9 @@ Publications
 
 **Conference Papers**
 
-+ **Yuxian Gu**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang. MiniPLM: Knowledge Distillation for Pre-Training Language Models. **ICLR 2025**. [[pdf]](https://arxiv.org/pdf/2410.17215.pdf) [[code]](https://github.com/thu-coai/MiniPLM) [[huggingface]](https://huggingface.co/MiniLLM)
++ **Yuxian Gu**, Li Dong, Hongning Wang, Yaru Hao, Qingxiu Dong, Minlie Huang, Furu Wei. Data Selection via Optimal Control for Language Models. **ICLR 2025** <span style="color:red">**Oral**</span>. [[pdf]](https://arxiv.org/pdf/2410.07064.pdf) [[code]](https://github.com/microsoft/LMOps/tree/main/data_selection) [[huggingface]](https://huggingface.co/Data-Selection)
 
-+ **Yuxian Gu**, Li Dong, Hongning Wang, Yaru Hao, Qingxiu Dong, Minlie Huang, Furu Wei. Data Selection via Optimal Control for Language Models. **ICLR 2025**. [[pdf]](https://arxiv.org/pdf/2410.07064.pdf) [[code]](https://github.com/microsoft/LMOps/tree/main/data_selection) [[huggingface]](https://huggingface.co/Data-Selection)
++ **Yuxian Gu**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang. MiniPLM: Knowledge Distillation for Pre-Training Language Models. **ICLR 2025**. [[pdf]](https://arxiv.org/pdf/2410.17215.pdf) [[code]](https://github.com/thu-coai/MiniPLM) [[huggingface]](https://huggingface.co/MiniLLM)
 
 + **Yuxian Gu**, Li Dong, Furu Wei, Minlie Huang. MiniLLM: Knowledge Distillation of Large Language Models. **ICLR 2024**. [[pdf]](https://arxiv.org/abs/2306.08543) [[code]](https://aka.ms/MiniLLM) [[huggingface]](https://huggingface.co/MiniLLM) [[slides]](/_pages/minillm_en.pdf)
 
