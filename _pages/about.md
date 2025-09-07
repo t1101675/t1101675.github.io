@@ -8,11 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th-year Ph.D. student in the [Conversational AI Group](http://coai.cs.tsinghua.edu.cn/) at the Department of Computer Science and Technology, Tsinghua University, 
-under the supervision of Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). 
-Previously, I was an intern at Microsoft Research Asia, where I was mentored by Dr. [Li Dong](https://dong.li/). 
-My research interests focus on developing efficient methods for the entire life cycle of language models, including pre-training, downstream adaptation, and inference.
-Recently, my efforts have centered on data curation theories and algorithms for pre-training LLMs ([PDS](https://arxiv.org/pdf/2410.07064.pdf), [Instruction Pre-training](https://arxiv.org/pdf/2406.14491), [Learning Law](https://arxiv.org/pdf/2402.17759.pdf)) and employing knowledge distillation for LM compression ([MiniLLM](https://arxiv.org/abs/2306.08543), [MiniPLM](https://arxiv.org/pdf/2410.17215.pdf)).
+I am a final-year Ph.D. candidate in the [Conversational AI (CoAI) Group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). My research is dedicated to enhancing the efficiency of Large Language Models (LLMs) across their entire lifecycle, encompassing pre-training, downstream adaptation, and inference.
+
+Recently, my work tackles this challenge through three primary research thrusts:
+
++ **Data Curation for Pre-training**: I develop theories and algorithms to optimize data selection for training powerful and efficient LLMs, as demonstrated in my work on ([PDS](https://arxiv.org/pdf/2410.07064.pdf), [Instruction Pre-training](https://arxiv.org/pdf/2406.14491), and [Learning Law](https://arxiv.org/pdf/2402.17759.pdf)).
+
++ **Knowledge Distillation for Model Compression**: I design novel techniques to distill knowledge from large models into smaller, more accessible ones. My key contributions in this area include ([MiniLLM](https://arxiv.org/abs/2306.08543) and [MiniPLM](https://arxiv.org/pdf/2410.17215.pdf)).
+
++ **Efficient Model Architectures**: I explore and design novel architectures that improve model performance while reducing computational costs, such as ([Jet-Nemotron](https://arxiv.org/abs/2508.15884)).
+
+I have been fortunate to collaborate with leading researchers during my time as an intern at Microsoft Research Asia, mentored by Dr. [Li Dong](https://dong.li/), and as a visiting student at MIT HAN Lab, mentored by Prof. [Song Han](https://hanlab.mit.edu/songhan). **I am currently on the job market and seeking research scientist and engineer roles**.
+
 
 Education
 ======
@@ -20,12 +27,16 @@ Education
 + 2021.9 - Present: Ph.D. Student, Department of Computer Science and Technology, Tsinghua University
 + 2017.9 - 2021.6: B.Eng., Department of Computer Science and Technology, Tsinghua University
 
+NEWS
+======
++ (🔥 New) [2025/8/22] We released the Jet-Nemotron technical report on [arXiv](https://www.arxiv.org/abs/2508.15884).
+
 Publications
 ======
 
 **Conference Papers**
 
-+ **Yuxian Gu**, Li Dong, Hongning Wang, Yaru Hao, Qingxiu Dong, Minlie Huang, Furu Wei. Data Selection via Optimal Control for Language Models. **ICLR 2025** <span style="color:red">**Oral**</span>. [[pdf]](https://arxiv.org/pdf/2410.07064.pdf) [[code]](https://github.com/microsoft/LMOps/tree/main/data_selection) [[huggingface]](https://huggingface.co/Data-Selection)
++ **Yuxian Gu**, Li Dong, Hongning Wang, Yaru Hao, Qingxiu Dong, Minlie Huang, Furu Wei. Data Selection via Optimal Control for Language Models. **ICLR 2025** <span style="color:red">**Oral (top 1.8%)**</span>. [[pdf]](https://arxiv.org/pdf/2410.07064.pdf) [[code]](https://github.com/microsoft/LMOps/tree/main/data_selection) [[huggingface]](https://huggingface.co/Data-Selection) [[slides]](/_pages/pds_45min.pdf)
 
 + **Yuxian Gu**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang. MiniPLM: Knowledge Distillation for Pre-Training Language Models. **ICLR 2025**. [[pdf]](https://arxiv.org/pdf/2410.17215.pdf) [[code]](https://github.com/thu-coai/MiniPLM) [[huggingface]](https://huggingface.co/MiniLLM)
 
@@ -57,6 +68,8 @@ Publications
 
 **Preprints**
 
++ **Yuxian Gu**, Qinghao Hu, Shang Yang, Haocheng Xi, Junyu Chen, Song Han, Han Cai. Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search. arxiv pre-print. [[pdf]](https://www.arxiv.org/abs/2508.15884) [[code]](https://github.com/NVlabs/Jet-Nemotron) [[website]](https://hanlab.mit.edu/projects/jet-nemotron) [[huggingface]]() [[demo]](https://www.youtube.com/watch?v=qAQ5yMThhRY&feature=youtu.be)
+
 + **Yuxian Gu**, Li Dong, Yaru Hao, Qingxiu Dong, Minlie Huang, Furu Wei. Towards Optimal Learning of Language Models. arXiv preprint 2024. [[pdf]](https://arxiv.org/pdf/2402.17759.pdf) [[code]](https://github.com/microsoft/LMOps/tree/main/learning_law)
 
 + Yixing Li, **Yuxian Gu**, Li Dong, Dequan Wang, Yu Cheng, Furu Wei. Direct Preference Knowledge Distillation for Large Language Models. arXiv preprint 2024. [[pdf]](https://arxiv.org/pdf/2406.19774.pdf) [[code]](https://github.com/microsoft/LMOps/tree/main/dpkd)
@@ -78,6 +91,7 @@ Selected Honors and Awards
 ======
 
 + Apple Scholars in AIML PhD fellowship, 2025
++ Ant Research In-Tech Scholarship. 2025
 + Comprehensive Scholarship, Tsinghua University, 2022-2024
 + Excellent Graduate, Tsinghua University, 2021
 + Outstanding Graduate, Dept. CST, Tsinghua University, 2021
