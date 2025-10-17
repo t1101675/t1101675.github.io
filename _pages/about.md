@@ -36,6 +36,8 @@ Publications
 
 **Conference Papers**
 
++ **Yuxian Gu**, Qinghao Hu, Shang Yang, Haocheng Xi, Junyu Chen, Song Han, Han Cai. Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search. **NeurIPS 2025** [[pdf]](https://www.arxiv.org/abs/2508.15884) [[code]](https://github.com/NVlabs/Jet-Nemotron) [[website]](https://hanlab.mit.edu/projects/jet-nemotron) [[huggingface]](https://huggingface.co/jet-ai) [[demo]](https://www.youtube.com/watch?v=qAQ5yMThhRY&feature=youtu.be)
+
 + **Yuxian Gu**, Li Dong, Hongning Wang, Yaru Hao, Qingxiu Dong, Minlie Huang, Furu Wei. Data Selection via Optimal Control for Language Models. **ICLR 2025** <span style="color:red">**Oral (top 1.8%)**</span>. [[pdf]](https://arxiv.org/pdf/2410.07064.pdf) [[code]](https://github.com/microsoft/LMOps/tree/main/data_selection) [[huggingface]](https://huggingface.co/Data-Selection) [[slides]](/_pages/pds_45min.pdf)
 
 + **Yuxian Gu**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang. MiniPLM: Knowledge Distillation for Pre-Training Language Models. **ICLR 2025**. [[pdf]](https://arxiv.org/pdf/2410.17215.pdf) [[code]](https://github.com/thu-coai/MiniPLM) [[huggingface]](https://huggingface.co/MiniLLM)
@@ -68,8 +70,6 @@ Publications
 
 **Preprints**
 
-+ **Yuxian Gu**, Qinghao Hu, Shang Yang, Haocheng Xi, Junyu Chen, Song Han, Han Cai. Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search. arxiv pre-print. [[pdf]](https://www.arxiv.org/abs/2508.15884) [[code]](https://github.com/NVlabs/Jet-Nemotron) [[website]](https://hanlab.mit.edu/projects/jet-nemotron) [[huggingface]]() [[demo]](https://www.youtube.com/watch?v=qAQ5yMThhRY&feature=youtu.be)
-
 + **Yuxian Gu**, Li Dong, Yaru Hao, Qingxiu Dong, Minlie Huang, Furu Wei. Towards Optimal Learning of Language Models. arXiv preprint 2024. [[pdf]](https://arxiv.org/pdf/2402.17759.pdf) [[code]](https://github.com/microsoft/LMOps/tree/main/learning_law)
 
 + Yixing Li, **Yuxian Gu**, Li Dong, Dequan Wang, Yu Cheng, Furu Wei. Direct Preference Knowledge Distillation for Large Language Models. arXiv preprint 2024. [[pdf]](https://arxiv.org/pdf/2406.19774.pdf) [[code]](https://github.com/microsoft/LMOps/tree/main/dpkd)
@@ -90,6 +90,7 @@ I was a TA for the following undergraduate courses:
 Selected Honors and Awards
 ======
 
++ National Scolarship, 2025
 + Apple Scholars in AIML PhD fellowship, 2025
 + Ant Research In-Tech Scholarship. 2025
 + Comprehensive Scholarship, Tsinghua University, 2022-2024
